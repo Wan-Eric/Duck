@@ -1,0 +1,29 @@
+{
+    "name": "鴨子",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.4",
+        "tag": "v2.0.4",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/d84063ebf603e9184b828fbedb885632215d6c12",
+        "target": "2.0.4",
+        "pxt": "11.2.20",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
